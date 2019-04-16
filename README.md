@@ -3,6 +3,7 @@ This is meant to be a general onboarding document for new clarity reporters at U
   -Mike
 
 ## Guide for scoping data requests
+### [Data Request Scoping Guide](https://docs.google.com/presentation/d/1NxsHZzNIuWxLmE-EiCp02ErCGnVrm7Xpy0VY3-aJC0c/edit?usp=sharing)
   
 ## Encounters
 ### Inpatient: Inpatient encounters are fairly well defined 
