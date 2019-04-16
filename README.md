@@ -10,7 +10,7 @@ This is meant to be a general onboarding document for new clarity reporters at U
 ### Inpatient 
   Inpatient encounters are fairly well defined.  The query CLIIR has been using can be found in this file.
 ### Outpatient
-  Outpatient encounters are not as well defined as inpatient encounters.  Generally, we limit to the UCSF service area and the look for encoutners that have either a completed status or an arrival time as well as the hsp_account.ha_account_class = 'Outpatient'
+  The best outpatient encouner definition I have found is UCSF's dashboard team's definition, found here: http://datacatalog.ucsfmedicalcenter.org/Metricdetail.aspx?metricId=4344
 ### Emergency
   Emergency encounters are defined by having an ha_class as 'Emergency'.  Note that these encounters can have variable pat_enc.enc_type_c that we suspect is realted to whether the patient was actually admitted to the hospital or else discharged directly from the emergency room.  
   
